@@ -1,0 +1,37 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "./__data",
+  "spellcheck": false,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "_new",
+  "propertiesInDocument": "visible",
+  "uriCallbacks": true,
+  "focusNewTab": false,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "*.excalidraw.png",
+    "*.excalidraw.svg",
+    "*.svg",
+    "*.png",
+    "*.webp",
+    "__wip/",
+    "*/*_wip/*",
+    "*/*_old/*",
+    "*/*_data/*",
+    "*/*scripts/*",
+    "*.svg"
+  ],
+  "showInlineTitle": true,
+  "strictLineBreaks": false,
+  "newLinkFormat": "shortest",
+  "settingsPopoutWindow": false
+}
